@@ -13,7 +13,7 @@ _5 Classes categories :_
 
 Grapevine yellows (class J), healthy leaves (class T), discoloration (class D), Esca (class E), and leafroll (class S).
 
-_Band used :_
+_Band selected :_
 
 Only the red band of the spectral imagery is used; however, blue, green, red-edge, or RGB imagery can also be utilized for testing under ambient lighting conditions.
 
