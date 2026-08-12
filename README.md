@@ -20,8 +20,8 @@ Only the red band of the spectral imagery is used; however, blue, green, red-edg
 _Training and test :_
 
 The re-annotation retained the categories used exclusively for this test. Images collected in 2021, 2022, and 2023 were randomly divided into training and test sets, with 80% of the images used for training, while this process can be repeated.
- - Test Set 1 (In-year evaluation): Images collected between 2021 and 2023 constitute the remaining 20% ​​of the test set. 
- - Test Set 2 (Cross-year evaluation): All images acquired in 2024 serve as an independent test set to evaluate model generalization across
+ - **Test Set 1 (In-year evaluation)**: Images collected between 2021 and 2023 constitute the remaining 20% ​​of the test set. 
+ -  **Test Set 2 (Cross-year evaluation)**: All images acquired in 2024 serve as an independent test set to evaluate model generalization across
    different years.
 
 ## 2. Notebook Structure
