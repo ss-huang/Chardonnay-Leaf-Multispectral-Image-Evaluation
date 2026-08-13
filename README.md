@@ -1,13 +1,15 @@
 # Overview :
 
-This codebase provides a practical workflow for processing, visualizing, and classifying multispectral images of Chardonnay grapevine leaves to detect yellows diseases and confounding symptoms.
+This codebase provides a practical workflow for processing, visualizing, and classifying multispectral images of Chardonnay grapevine leaves to detect grapevine yellows disease and confounding symptoms.
 
 
 ## 1. Dataset
 
 The published multispectral image dataset of Chardonnay grapevine leaves, titled "_Multi-year multispectral image dataset of Chardonnay grapevine leaves with yellows disease and confusing symptoms_", is accessible via the following DOI: https://doi.org/10.57745/LTBIME. Some of the images were evaluated using this code.
 
+Multi-years :
 
+2021-2024.
 
 5 Classes categories :
 
