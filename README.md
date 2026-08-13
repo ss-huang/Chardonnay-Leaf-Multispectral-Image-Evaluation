@@ -17,7 +17,7 @@ Grapevine yellows (class J), healthy leaves (class T), discoloration (class D), 
 
 Band selected :
 
-Only the red band of the spectral imagery is used; however, blue, green, red-edge, or RGB imagery can also be utilized for testing under ambient lighting conditions.
+Only the red band of the spectral imagery is used under ambient lighting conditions; however, blue, green, red-edge, or RGB imagery can also be utilized for testing.
 
 Training and test :
 
