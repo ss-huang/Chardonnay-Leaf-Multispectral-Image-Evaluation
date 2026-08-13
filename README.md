@@ -51,4 +51,4 @@ Evaluate the five-class classification performance on test set 1 and the cross-y
 If your research utilizes the aforementioned notebook, please cite the DOI provided above.
 
 ## Contact information
-If you have any questions or feedback, please feel free to contact the authors Shusong Huang, Université de Reims Champagne-Ardenne or Prof. Valeriu Vrabie valeriu.vrabie@univ-reims.fr or using the authors information provided via DOI.
+If you have any questions or feedback, etc., please feel free to contact the authors, Shusong Huang, Université de Reims Champagne-Ardenne or Prof. Valeriu Vrabie valeriu.vrabie@univ-reims.fr or using the authors information provided via DOI.
