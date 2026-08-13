@@ -27,25 +27,25 @@ The re-annotation retained the categories used exclusively for this test. Images
 ## 2. Notebook Structure
 This notebook will follow these procedures.
 
- - **Parameters setting**
+ - **Parameters setting**.
 Introduce the path for the bands, setting the parameters for data loading, model training, and evaluation.
 
- - **Data loading and dataset construction**
+ - **Data loading and dataset construction**.
 Load the selected red-band images, parse the filenames, and construct training and testing sets based on the cross-year experiment setup.
 
- - **Samples visualization**
+ - **Samples visualization**.
 Before model training, visualize representative red-band images from these five data categories and verify their labels.
 
- - **Images processing**
+ - **Images processing**.
 Resize the image and apply the intensity normalization and ImageNet normalization required by ResNet-18.
 
- - **Model configuration and fine-tuning**
+ - **Model configuration and fine-tuning**.
 Configure an ImageNet pre-trained ResNet-18 model for a 5-class classification task, and fine-tune the selected layer using red band images.
 
- - **Model training**
+ - **Model training**.
 The pre-trained  ResNet-18 model was trained for 20 epochs, and the trained model and training history were saved.
 
- - **Cross-year evaluation and results visualization**
+ - **Cross-year evaluation and results visualization**.
 Evaluate the five-class classification performance on test set 1 and the cross-year test set 2 from 2024.
 ## Citation
 If your research utilizes the aforementioned notebook, please cite the DOI provided above.
