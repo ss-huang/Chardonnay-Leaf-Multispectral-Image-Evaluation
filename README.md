@@ -24,7 +24,7 @@ The re-annotation retained the categories used exclusively for this test. Images
  -  **Test Set 2 (Cross-year evaluation)**: All images acquired in 2024 serve as an independent test set to evaluate model generalization across
    different years.
 
-## 2. Notebook Structure
+## 2. Notebook structure
 This notebook will follow these procedures.
 
  - **Parameters setting**.
